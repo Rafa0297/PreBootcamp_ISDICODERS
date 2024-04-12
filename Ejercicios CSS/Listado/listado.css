@@ -1,0 +1,30 @@
+img {
+    width: 200px;
+    height: 200px;
+    padding: 20px;
+}
+
+.section {
+    display: flex;
+    align-items: start;
+    justify-items: center;
+    cursor: pointer;
+}
+
+.section:hover {
+    background-color: beige;
+}
+
+.text {
+    padding: 10px 20px;
+}
+
+.text h1 {
+    font-size: 30px;
+}
+
+.text p {
+    font-size: 18px;
+    text-align: justify;
+}
+

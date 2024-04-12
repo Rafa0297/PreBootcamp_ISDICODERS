@@ -1,0 +1,99 @@
+button {
+    width: 116px;
+    padding: 8px 0px;
+    font-size: 18px;
+    border: 2px solid rgba(128, 128, 128, 0.568);
+    border-radius: 5px;
+    margin-bottom: 20px;
+    cursor: pointer;
+}
+
+.bold {
+    font-weight: 600;
+}
+
+.white {
+    color: white;
+}
+
+.no-background {
+    background: none;
+}
+
+.round {
+    border-radius: 20px;
+}
+
+.button-2 {
+    background-color: rgba(27, 19, 255, 0.87);
+    border: 2px solid rgba(27, 19, 255, 0.87); 
+}
+
+.button-3 {
+    background-color: rgba(34, 174, 6, 0.87);
+    border: 2px solid rgba(34, 174, 6, 0.87)
+}
+
+.button-4 {
+    background-color: rgb(0, 185, 236);
+    border: 2px solid rgb(0, 185, 236);
+}
+
+.button-5 {
+    background-color: rgb(240, 188, 16);
+    border: 2px solid rgb(240, 188, 16);
+}
+
+.button-6 {
+    background-color: rgb(210, 1, 1);
+    border: 2px solid rgb(210, 1, 1);
+}
+
+.button-2-empty {
+    border: 2px solid rgba(27, 19, 255, 0.87);
+    color: rgba(27, 19, 255, 0.87); 
+}
+
+.button-3-empty {
+    border: 2px solid rgba(34, 174, 6, 0.87);
+    color: rgba(34, 174, 6, 0.87);
+}
+
+.button-4-empty {
+    border: 2px solid rgb(0, 185, 236);
+    color: rgb(0, 185, 236);
+}
+
+.button-5-empty {
+    border: 2px solid rgb(240, 188, 16);
+    color: rgb(240, 188, 16);
+}
+
+.button-6-empty {
+    border: 2px solid rgb(210, 1, 1);
+    color: rgb(210, 1, 1);
+}
+
+.button-4-big {
+    background-color: rgb(0, 185, 236);
+    border: 2px solid rgb(0, 185, 236);
+    font-size: 40px;
+    padding: 15px 0px;
+    width: 160px;
+}
+
+.button-5-big {
+    background-color: rgb(240, 188, 16);
+    border: 2px solid rgb(240, 188, 16);
+    font-size: 40px;
+    padding: 15px 0px;
+    width: 170px;
+}
+
+.button-6-big {
+    background-color: rgb(210, 1, 1);
+    border: 2px solid rgb(210, 1, 1);
+    font-size: 40px;
+    padding: 15px 0px;
+    width: 170px;
+}
