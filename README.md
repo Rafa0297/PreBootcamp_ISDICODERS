@@ -1,2 +1,3 @@
 # PreBootcamp_ISDICODERS
-Ejercicios del Pre-Curso de ISDI Coders
+Ejercicios y Challenges del Pre-Curso de ISDI Coders
+
